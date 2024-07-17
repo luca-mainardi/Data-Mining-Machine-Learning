@@ -1,6 +1,8 @@
 # Data Mining and Machine Learning Homeworks
 
-This repository contains two homework assignments from a course in Data Mining and Machine Learning. Each homework focuses on different topics and concepts related to data mining and machine learning algorithms.
+This repository contains two homework assignments from a Data Mining and Machine Learning course (2IIG0) at Eindhoven University of Technology.
+
+Each homework focuses on different topics and concepts related to data mining and machine learning algorithms.
 
 ## Homework 1:
 - Gradient Descend
